@@ -1,0 +1,6 @@
+OrderID,OrderDate,Region,Category,Sales
+1,2024-01-01,East,Electronics,250
+2,2024-01-02,West,Furniture,300
+3,2024-01-03,East,Clothing,150
+4,2024-01-04,North,Electronics,400
+5,2024-01-05,South,Furniture,350
