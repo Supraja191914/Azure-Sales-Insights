@@ -39,7 +39,8 @@ Azure-Sales-Insights/
 ---
 
 ## 📸 Screenshots
-(Add your screenshots in the Docs folder)
+![Uploading Sales Performance Dashboard.png…]()
+
 
 ---
 
